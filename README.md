@@ -1,7 +1,7 @@
 # Sensor-Fusion-Using-ES-EKF
 Implement Error-State Extended Kalman Filter on fusing data from IMU, Lidar and GNSS.  
 
-This is a module assgnment from [State Estimation and Localization](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) course of [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars?) on Coursera.org.
+This is a module assignment from [State Estimation and Localization](https://www.coursera.org/learn/state-estimation-localization-self-driving-cars) course of [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars?) on Coursera.org.
 
 This assginment implements Error-State Extended Kalman Filter on fusing IMU, Lidar and GNSS data coming from different frequencies.
 
